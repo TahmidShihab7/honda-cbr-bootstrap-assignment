@@ -1,0 +1,47 @@
+.first-section {
+  background-color: #264653;
+}
+.first-section .purchase-button {
+  background-color: #e76f51;
+}
+.fa-motorcycle {
+  color: white;
+}
+.col-org {
+  color: #e76f51;
+}
+.fa-star-half-alt {
+  color: gold;
+}
+.fa-star {
+  color: gold;
+}
+
+.col-blue {
+  color: #23a6f0;
+}
+.featured div:nth-child(odd) img {
+  filter: grayscale(100%);
+}
+.d-block {
+  width: 30%;
+  height: 60%;
+}
+.row img {
+  width: 550px;
+  height: 500px;
+}
+.btn-group {
+  justify-content: center;
+  align-items: center;
+  margin-left: 675px;
+  margin-right: 600px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  border: gray solid 2px;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+  margin-bottom: 3px;
+}
